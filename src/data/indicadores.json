@@ -1,0 +1,150 @@
+{
+  "indicadores2026": {
+    "marketing": {
+      "leads": {
+        "total": { "janeiro": 639, "fevereiro": 355, "marco": 625, "total": 1619, "meta2026": 7000 },
+        "origensMkt": { "janeiro": 222, "fevereiro": 167, "marco": 350, "total": 739, "meta2026": 2296 },
+        "marketingDigital": { "janeiro": 151, "fevereiro": 155, "marco": 315, "total": 621, "meta2026": 2000 },
+        "drivaProspeccao": { "janeiro": 71, "fevereiro": 12, "marco": 35, "total": 118, "meta2026": 296 },
+        "eventosPalestras": { "janeiro": 141, "fevereiro": 20, "marco": 152, "total": 313, "meta2026": 2800 },
+        "indicacoesParceiros": { "janeiro": 276, "fevereiro": 168, "marco": 123, "total": 567, "meta2026": 620 }
+      },
+      "redesSociais": {
+        "instagram": { "janeiro": 571, "fevereiro": 748, "marco": 1629, "total": 2948, "meta2026": 7000 },
+        "linkedin": { "janeiro": 308, "fevereiro": 159, "marco": 187, "total": 654, "meta2026": 6000 },
+        "youtube": { "janeiro": 21, "fevereiro": 1335, "marco": 2175, "total": 3531, "meta2026": 8000 }
+      },
+      "engajamento": {
+        "metaTotal": { "janeiro": 68014, "fevereiro": 33226, "marco": 194499, "total": 295739, "meta2026": 600000 },
+        "metaOrganico": { "janeiro": 3895, "fevereiro": 3276, "marco": 13270, "total": 20441, "meta2026": 98700 },
+        "linkedin": { "janeiro": 2581, "fevereiro": 959, "marco": 1797, "total": 5337, "meta2026": 100000 },
+        "youtube": { "janeiro": 20846, "fevereiro": 21131, "marco": 22401, "total": 64378, "meta2026": 500000 },
+        "taxaEmail": { "janeiro": 57.5, "fevereiro": 47.0, "marco": 49.8, "total": 51.4, "meta2026": 52.99 }
+      },
+      "participacaoMidia": {
+        "marcaMidia": { "janeiro": 1, "fevereiro": 2, "marco": 2, "total": 5, "meta2026": 36 },
+        "acoesAltoImpacto": { "janeiro": 2, "fevereiro": 3, "marco": 5, "total": 10, "meta2026": 36 },
+        "eventosComunicacao": { "janeiro": 5, "fevereiro": 4, "marco": 5, "total": 14, "meta2026": 100 },
+        "parceriasVeiculos": { "janeiro": 0, "fevereiro": 0, "marco": 0, "total": 0, "meta2026": 5 }
+      },
+      "googleTrafego": {
+        "impressoes": { "janeiro": 168637, "fevereiro": 283878, "marco": 320661, "total": 773176, "meta2026": 3000000 },
+        "ctr": { "janeiro": 8.1, "fevereiro": 2.7, "marco": 2.8, "total": 4.5, "meta2026": 10.0 },
+        "volumeVisitas": { "janeiro": 24000, "fevereiro": 17000, "marco": 21000, "total": 62000, "meta2026": 25000 },
+        "acessosUnicos": { "janeiro": 8900, "fevereiro": 6600, "marco": 8500, "total": 24000, "meta2026": 12000 }
+      }
+    },
+    "relacionamento": {
+      "agendamentos": {
+        "total": { "janeiro": 36, "fevereiro": 29, "marco": 43, "total": 108, "meta2026": 562 },
+        "produtores": {
+          "total": { "janeiro": 22, "fevereiro": 22, "marco": 32, "total": 76, "meta2026": 475 },
+          "porOrigem": [
+            { "name": "Marketing Digital", "value": 31, "color": "#004D40" },
+            { "name": "Driva", "value": 0, "color": "#82BC00" },
+            { "name": "Prospecção Ativa", "value": 2, "color": "#004D40" },
+            { "name": "Eventos e Palestras", "value": 21, "color": "#A3E635" },
+            { "name": "Indicações / Parceiros", "value": 22, "color": "#E2E8F0" }
+          ]
+        },
+        "parceiros": {
+          "total": { "janeiro": 14, "fevereiro": 7, "marco": 11, "total": 32, "meta2026": 87 },
+          "porOrigem": [
+            { "name": "Marketing Digital", "value": 12, "color": "#004D40" },
+            { "name": "Driva", "value": 0, "color": "#82BC00" },
+            { "name": "Prospecção Ativa", "value": 9, "color": "#004D40" },
+            { "name": "Eventos e Palestras", "value": 11, "color": "#A3E635" },
+            { "name": "Indicações / Parceiros", "value": 0, "color": "#CBD5E1" }
+          ]
+        }
+      },
+      "propostasEnviadas": {
+        "totalComEquipe": { "janeiro": 71, "fevereiro": 12, "marco": 35, "total": 118, "meta2026": 200 },
+        "taxaEnvio": { "janeiro": 45.5, "fevereiro": 45.5, "marco": 37.5, "total": 42.8, "meta2026": 45.0 },
+        "porRegional": [
+          { "name": "BA", "value": 1 },
+          { "name": "DF", "value": 16 },
+          { "name": "DF OESTE", "value": 34 },
+          { "name": "ES", "value": 2 },
+          { "name": "FO", "value": 0 },
+          { "name": "GO", "value": 0 },
+          { "name": "GO NOROESTE", "value": 0 },
+          { "name": "GO SUDOESTE", "value": 0 },
+          { "name": "MA", "value": 2 },
+          { "name": "MG SUL-SP", "value": 1 },
+          { "name": "MG TRI", "value": 18 },
+          { "name": "MS", "value": 2 },
+          { "name": "MT NORTE", "value": 0 },
+          { "name": "MT OESTE", "value": 1 },
+          { "name": "MT SUL", "value": 3 },
+          { "name": "MT VALE", "value": 0 },
+          { "name": "MT VALE-PE", "value": 1 },
+          { "name": "PI", "value": 0 },
+          { "name": "PR", "value": 11 },
+          { "name": "RS JN", "value": 0 },
+          { "name": "RS-SC-PA", "value": 4 },
+          { "name": "SP", "value": 22 },
+          { "name": "TO-PA", "value": 0 },
+          { "name": "TO-SUL", "value": 0 },
+          { "name": "Fundiário", "value": 0 },
+          { "name": "GEP", "value": 0 }
+        ]
+      },
+      "propostasConquistadas": {
+        "quantidade": { "janeiro": 1, "fevereiro": 7, "marco": 8, "total": 16, "meta2026": 84 },
+        "taxaConversao": { "janeiro": 10, "fevereiro": 70, "marco": 67, "total": 48.9, "meta2026": 45.0 },
+        "volumeNegocios": { "janeiro": 315000, "fevereiro": 923000, "marco": 1095808, "total": 2333808, "meta2026": 12559223 },
+        "porServico": [
+          { "name": "Consultoria", "value": 15 },
+          { "name": "Palestras/Eventos", "value": 1 }
+        ],
+        "porOrigem": [
+          { "name": "Marketing Digital", "value": 7, "color": "#004D40" },
+          { "name": "Eventos e Palestras", "value": 3, "color": "#82BC00" },
+          { "name": "Prospecção Ativa", "value": 0, "color": "#004D40" },
+          { "name": "Indicações / Parceiros", "value": 6, "color": "#A3E635" }
+        ],
+        "porConsultor": [
+          { "name": "Djulio", "value": 12 },
+          { "name": "Nathalia", "value": 10 },
+          { "name": "Carolyne", "value": 9 },
+          { "name": "Leiridiana", "value": 8 }
+        ],
+        "porArea": [
+          { "name": "PATRIMONIAL", "value": 18 },
+          { "name": "GEF", "value": 12 },
+          { "name": "CONTÁBIL", "value": 10 },
+          { "name": "GOVERNANÇA", "value": 6 }
+        ],
+        "porRegional": [
+          { "name": "BA", "value": 3 },
+          { "name": "DF", "value": 2 },
+          { "name": "DF OESTE", "value": 1 },
+          { "name": "ES", "value": 1 },
+          { "name": "FO", "value": 0 },
+          { "name": "GO", "value": 1 },
+          { "name": "GO NOROESTE", "value": 0 },
+          { "name": "GO SUDOESTE", "value": 0 },
+          { "name": "MA", "value": 0 },
+          { "name": "MG SUL-SP", "value": 1 },
+          { "name": "MG TRI", "value": 0 },
+          { "name": "MS", "value": 1 },
+          { "name": "MT NORTE", "value": 1 },
+          { "name": "MT OESTE", "value": 1 },
+          { "name": "MT SUL", "value": 1 },
+          { "name": "MT VALE", "value": 1 },
+          { "name": "MT VALE-PE", "value": 0 },
+          { "name": "PI", "value": 1 },
+          { "name": "PR", "value": 0 },
+          { "name": "RS JN", "value": 0 },
+          { "name": "RS-SC-PA", "value": 1 },
+          { "name": "SP", "value": 1 },
+          { "name": "TO-PA", "value": 0 },
+          { "name": "TO-SUL", "value": 0 },
+          { "name": "Fundiário", "value": 0 },
+          { "name": "GEP", "value": 0 }
+        ]
+      }
+    }
+  }
+}
